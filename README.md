@@ -23,6 +23,7 @@
 [![Code coverage][codecov-image]][codecov-url]
 [![Go Report Card][goreport-image]][goreport-url]
 [![Reference documentation][reference-documentation-image]][reference-documentation-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frushikesh-sundyne%2Fauthd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frushikesh-sundyne%2Fauthd?ref=badge_shield)
 
 [![Documentation Status][docs-image]][docs-url-stable]
 
@@ -78,3 +79,7 @@ When reporting an issue you can
 We're friendly! You can find our community forum at
 [https://discourse.ubuntu.com](https://discourse.ubuntu.com)
 where we discuss feature plans, development news, issues, updates and troubleshooting.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frushikesh-sundyne%2Fauthd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frushikesh-sundyne%2Fauthd?ref=badge_large)
